@@ -1,0 +1,1 @@
+<CardCatalog xmlns="http://schemas.datacontract.org/2004/07/LibraryCardCatalog" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><BookListHolder><Book><author>JerrysBook</author><subject>Source Code</subject><title>JerrysBook</title></Book></BookListHolder><filename>JerrysCatalog</filename></CardCatalog>
